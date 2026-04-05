@@ -1,7 +1,8 @@
-# A.H. Mixtape - Digital Cassette Player
+# A.H. Mixtape - A Desktop Music Player
 
-A retro-styled, digital mixtape player built for the desktop. Experience your local MP3 collection through a realistic 90s boombox interface, complete with a plywood bookshelf, spinning cassette animations, and editable track notes.
+A retro-styled Music player built for the desktop. Experience your local MP3 collection through a realistic 90s boombox interface, spinning cassette animations, and editable track notes.
 
+![1](https://github.com/user-attachments/assets/da72208d-5a32-4162-99bf-45c635f715e8)
 
 
 
