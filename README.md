@@ -1,6 +1,6 @@
 # A.H. Mixtape - A Desktop Music Player
 
-A retro-styled Music player built for the desktop. Experience your local MP3 collection through a realistic 90s boombox interface, spinning cassette animations, and editable track notes.
+A retro-styled Music player built for the desktop. Experience your local MP3 collection through a realistic 90s boombox interface, spinning cassette animations, and editable track notes. It has four deafualt song attach to it, but you can modify it as you want.
 
 ![m](https://github.com/user-attachments/assets/80e08657-4b1c-4885-b27f-d85644bcbcf8)
 
@@ -35,8 +35,22 @@ To run this project locally and make your own changes:
     ```
 4.  **Package Your Own Build**:
     ```bash
-    npm run make-installer
+    npm run build:zip
     ```
+
+---
+
+##  Customizing & "Drop & Build" Logic
+
+The player is designed for easy personalization. You can "attach" your own songs by default:
+
+1.  **Drop Your MP3s**: Simply place any `.mp3` files into the `public/default_songs/` folder.
+2.  **No Renaming Needed**: The app automatically scans this folder, detects your music, and uses the filenames as cassette titles on the shelf.
+3.  **Automatic Build**: When you're ready to share your personalized version, run:
+    ```bash
+    npm run build:zip
+    ```
+    This will create a new standalone package with .exe in the `release/` folder!
 
 ---
 
