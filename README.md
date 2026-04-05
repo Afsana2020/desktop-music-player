@@ -2,8 +2,7 @@
 
 A retro-styled Music player built for the desktop. Experience your local MP3 collection through a realistic 90s boombox interface, spinning cassette animations, and editable track notes.
 
-![1](https://github.com/user-attachments/assets/da72208d-5a32-4162-99bf-45c635f715e8)
-
+![m](https://github.com/user-attachments/assets/80e08657-4b1c-4885-b27f-d85644bcbcf8)
 
 
 ##  Technology Stack
