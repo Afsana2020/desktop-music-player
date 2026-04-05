@@ -17,8 +17,8 @@ A retro-styled Music player built for the desktop. Experience your local MP3 col
 
 ### Option 1: Just Want to Play? 
 If you just want to use the player, you don't need any code!
-1.  Download the `A.H_Mixtape.zip` file from : [https://drive.google.com/drive/folders/1OGsZtkcc-JjKHJfv0UthdyRZbt4YrbC_?usp=sharing](https://drive.google.com/drive/folders/1OGsZtkcc-JjKHJfv0UthdyRZbt4YrbC_?usp=sharing)
-2.  **Extract** the zip folder completely.
+1.  Download the `A.H Mixtape.rar` file from : [https://drive.google.com/drive/folders/1OGsZtkcc-JjKHJfv0UthdyRZbt4YrbC_?usp=sharing](https://drive.google.com/drive/folders/1OGsZtkcc-JjKHJfv0UthdyRZbt4YrbC_?usp=sharing)
+2.  **Extract** the rar folder completely.
 3.  Open the folder and double-click **`A.H Mixtape.exe`**.
 4.  Click "ADD SONG" to load your MP3s and start your mixtape!
 
